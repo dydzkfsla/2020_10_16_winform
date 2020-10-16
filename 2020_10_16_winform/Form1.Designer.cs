@@ -52,7 +52,7 @@
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("굴림", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.button1.Location = new System.Drawing.Point(12, 156);
+            this.button1.Location = new System.Drawing.Point(76, 175);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(59, 64);
             this.button1.TabIndex = 0;
@@ -63,7 +63,7 @@
             // button2
             // 
             this.button2.Font = new System.Drawing.Font("굴림", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.button2.Location = new System.Drawing.Point(75, 156);
+            this.button2.Location = new System.Drawing.Point(139, 175);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(59, 64);
             this.button2.TabIndex = 1;
@@ -74,7 +74,7 @@
             // button3
             // 
             this.button3.Font = new System.Drawing.Font("굴림", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.button3.Location = new System.Drawing.Point(138, 156);
+            this.button3.Location = new System.Drawing.Point(202, 175);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(59, 64);
             this.button3.TabIndex = 2;
@@ -85,7 +85,7 @@
             // button4
             // 
             this.button4.Font = new System.Drawing.Font("굴림", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.button4.Location = new System.Drawing.Point(12, 226);
+            this.button4.Location = new System.Drawing.Point(76, 245);
             this.button4.Name = "button4";
             this.button4.Size = new System.Drawing.Size(59, 64);
             this.button4.TabIndex = 3;
@@ -96,7 +96,7 @@
             // button5
             // 
             this.button5.Font = new System.Drawing.Font("굴림", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.button5.Location = new System.Drawing.Point(75, 226);
+            this.button5.Location = new System.Drawing.Point(139, 245);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(59, 64);
             this.button5.TabIndex = 4;
@@ -107,7 +107,7 @@
             // button6
             // 
             this.button6.Font = new System.Drawing.Font("굴림", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.button6.Location = new System.Drawing.Point(138, 226);
+            this.button6.Location = new System.Drawing.Point(202, 245);
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(59, 64);
             this.button6.TabIndex = 5;
@@ -118,7 +118,7 @@
             // button7
             // 
             this.button7.Font = new System.Drawing.Font("굴림", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.button7.Location = new System.Drawing.Point(12, 296);
+            this.button7.Location = new System.Drawing.Point(76, 315);
             this.button7.Name = "button7";
             this.button7.Size = new System.Drawing.Size(59, 64);
             this.button7.TabIndex = 6;
@@ -129,7 +129,7 @@
             // button8
             // 
             this.button8.Font = new System.Drawing.Font("굴림", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.button8.Location = new System.Drawing.Point(75, 296);
+            this.button8.Location = new System.Drawing.Point(139, 315);
             this.button8.Name = "button8";
             this.button8.Size = new System.Drawing.Size(59, 64);
             this.button8.TabIndex = 7;
@@ -140,7 +140,7 @@
             // button9
             // 
             this.button9.Font = new System.Drawing.Font("굴림", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.button9.Location = new System.Drawing.Point(138, 296);
+            this.button9.Location = new System.Drawing.Point(202, 315);
             this.button9.Name = "button9";
             this.button9.Size = new System.Drawing.Size(59, 64);
             this.button9.TabIndex = 8;
@@ -151,7 +151,7 @@
             // button10
             // 
             this.button10.Font = new System.Drawing.Font("굴림", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.button10.Location = new System.Drawing.Point(75, 366);
+            this.button10.Location = new System.Drawing.Point(139, 385);
             this.button10.Name = "button10";
             this.button10.Size = new System.Drawing.Size(59, 64);
             this.button10.TabIndex = 9;
@@ -162,7 +162,7 @@
             // button11
             // 
             this.button11.Font = new System.Drawing.Font("굴림", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.button11.Location = new System.Drawing.Point(201, 156);
+            this.button11.Location = new System.Drawing.Point(265, 175);
             this.button11.Name = "button11";
             this.button11.Size = new System.Drawing.Size(59, 64);
             this.button11.TabIndex = 10;
@@ -173,7 +173,7 @@
             // button12
             // 
             this.button12.Font = new System.Drawing.Font("굴림", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.button12.Location = new System.Drawing.Point(201, 226);
+            this.button12.Location = new System.Drawing.Point(265, 245);
             this.button12.Name = "button12";
             this.button12.Size = new System.Drawing.Size(59, 64);
             this.button12.TabIndex = 11;
@@ -184,7 +184,7 @@
             // button13
             // 
             this.button13.Font = new System.Drawing.Font("굴림", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.button13.Location = new System.Drawing.Point(201, 296);
+            this.button13.Location = new System.Drawing.Point(265, 315);
             this.button13.Name = "button13";
             this.button13.Size = new System.Drawing.Size(59, 64);
             this.button13.TabIndex = 12;
@@ -195,7 +195,7 @@
             // button14
             // 
             this.button14.Font = new System.Drawing.Font("굴림", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.button14.Location = new System.Drawing.Point(201, 366);
+            this.button14.Location = new System.Drawing.Point(265, 385);
             this.button14.Name = "button14";
             this.button14.Size = new System.Drawing.Size(59, 64);
             this.button14.TabIndex = 13;
@@ -206,7 +206,7 @@
             // button15
             // 
             this.button15.Font = new System.Drawing.Font("굴림", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.button15.Location = new System.Drawing.Point(138, 366);
+            this.button15.Location = new System.Drawing.Point(202, 385);
             this.button15.Name = "button15";
             this.button15.Size = new System.Drawing.Size(59, 64);
             this.button15.TabIndex = 14;
@@ -217,7 +217,7 @@
             // button16
             // 
             this.button16.Font = new System.Drawing.Font("굴림", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.button16.Location = new System.Drawing.Point(12, 366);
+            this.button16.Location = new System.Drawing.Point(76, 385);
             this.button16.Name = "button16";
             this.button16.Size = new System.Drawing.Size(59, 64);
             this.button16.TabIndex = 15;
@@ -229,7 +229,7 @@
             // 
             this.ldl_cal.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.ldl_cal.Font = new System.Drawing.Font("굴림", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.ldl_cal.Location = new System.Drawing.Point(7, 63);
+            this.ldl_cal.Location = new System.Drawing.Point(71, 82);
             this.ldl_cal.Name = "ldl_cal";
             this.ldl_cal.Size = new System.Drawing.Size(253, 76);
             this.ldl_cal.TabIndex = 16;
@@ -248,7 +248,9 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(287, 449);
+            this.BackgroundImage = global::_2020_10_16_winform.Properties.Resources.pngwing_com;
+            this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
+            this.ClientSize = new System.Drawing.Size(392, 548);
             this.Controls.Add(this.ldl_temp);
             this.Controls.Add(this.ldl_cal);
             this.Controls.Add(this.button16);
@@ -267,10 +269,11 @@
             this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
+            this.DoubleBuffered = true;
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Form1";
-            this.Text = "계산기";
+            this.Text = "계산기(0으로 나눠보세요!)";
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.Form1_FormClosed);
             this.Load += new System.EventHandler(this.Form1_Load);
             this.ResumeLayout(false);
