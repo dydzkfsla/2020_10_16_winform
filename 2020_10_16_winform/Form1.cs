@@ -37,7 +37,6 @@ namespace _2020_10_16_winform
         {
             InitializeComponent();
             thread = new Thread(new ThreadStart(ColorRan));
-            thread.Start();
         }
 
         private void Form1_Load(object sender, EventArgs e)
@@ -53,9 +52,16 @@ namespace _2020_10_16_winform
         private void oper_button_Click(object sender, EventArgs e)
         {
             operate_do();
-            right = 0;
             oper = ((Button)sender).Text;
             ldl_temp.Text = left.ToString() + oper;
+            if (right == 0 && oper == "%")
+            {
+                defualt();
+                MessageBox.Show("0으로 나눌수 없습니다");
+                thread.Start();
+            }
+            right = 0;
+           
 
         }
 
@@ -81,6 +87,11 @@ namespace _2020_10_16_winform
         }
 
         private void c_button_Click(object sender, EventArgs e)
+        {
+            defualt();
+        }
+
+        private void defualt()
         {
             ldl_cal.Text = null;
             ldl_temp.Text = null;
