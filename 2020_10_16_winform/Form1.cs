@@ -41,11 +41,15 @@ namespace _2020_10_16_winform
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            
+            ldl_cal.Text = "0";
         }
 
         private void num_button_Click(object sender, EventArgs e)
         {
+            if(ldl_cal.Text == "0")
+            {
+                ldl_cal.Text = null;
+            }
             ldl_cal.Text += ((Button)sender).Text;
         }
 
@@ -72,7 +76,7 @@ namespace _2020_10_16_winform
         private void operate_do()
         {
             right = int.Parse(ldl_cal.Text);
-            ldl_cal.Text = "";
+            ldl_cal.Text = "0";
             switch (oper)
             {
                 case "+":
