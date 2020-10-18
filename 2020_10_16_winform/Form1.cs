@@ -58,7 +58,11 @@ namespace _2020_10_16_winform
             {
                 defualt();
                 MessageBox.Show("0으로 나눌수 없습니다");
-                thread.Start();
+                if (!thread.IsAlive)
+                {
+                    thread.Start();
+                }
+                _2020_10_16_winform.Form2.NewFrom();
             }
             right = 0;
            
